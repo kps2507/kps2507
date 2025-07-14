@@ -8,7 +8,7 @@ Hello, I'm <b>Karan Pratap Singh</b>. My passions lie in <b>Machine Learning, fo
 
 🔍 **Data Science Impact:** Demonstrated success in data science roles, including developing a proprietary Generative AI tool, implementing a Customer Escalation prediction framework, and analyzing Overall Customer Experience KPIs, resulting in significant improvements and cost savings.
 
-🔧 🔍 **Data Engineering Impact:** Designed and deployed scalable data pipelines across cloud platforms (Azure, AWS, GCP), integrated batch and real-time ETL workflows, optimized data models and query performance, and enabled reliable analytics and AI use cases.
+🔍 **Data Engineering Impact:** Designed and deployed scalable data pipelines across cloud platforms (Azure, AWS, GCP), integrated batch and real-time ETL workflows, optimized data models and query performance, and enabled reliable analytics and AI use cases.
 
 🤖 **Technical Proficiency:** Proficient in various technical skills, including R, Hadoop, Tableau, PyTorch, SQL, Excel, and more. 
 
