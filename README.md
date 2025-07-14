@@ -1,6 +1,6 @@
 # Welcome 👋
 
-Hello, I'm <b>Karan Pratap Singh</b>. My passions lie in <b>Machine Learning, focusing on Reinforcement Learning, Image Classification, and Large Language Models</b>. Additionally, I enjoy playing Badminton 🏓, reading books 📚  and listening to Rock music.
+Hey there! I'm <b>Karan Pratap Singh</b> — a tech enthusiast who loves diving into <b>Machine Learning, Large Language Models (LLMs), Data Engineering, and Data Analysis</b>. When I’m not building data pipelines or fine-tuning models, you’ll probably find me <b>playing guitar 🎸, hiking up a trail 🥾, or experimenting with something delicious in the kitchen 🍳</b>.
 
 ## Highlights
 
@@ -10,41 +10,56 @@ Hello, I'm <b>Karan Pratap Singh</b>. My passions lie in <b>Machine Learning, fo
 
 🔍 **Data Engineering Impact:** Designed and deployed scalable data pipelines across cloud platforms (Azure, AWS, GCP), integrated batch and real-time ETL workflows, optimized data models and query performance, and enabled reliable analytics and AI use cases.
 
-🤖 **Technical Proficiency:** Proficient in various technical skills, including R, Hadoop, Tableau, PyTorch, SQL, Excel, and more. 
-
-🎾🎹 **Extracurricular Passions:** Beyond the professional realm, I love to hike and listen to music.
+🎹 **Extracurricular Passions:** I enjoy hiking and vibing to good music.
 
 🌐 **Open to Opportunities:** Currently located in Dallas, TX, and open to relocation for compelling career opportunities that align with my passion for data science, data engineering and AI.
 
 
-<img align="right" alt="code"  height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif"> 
+## Skills
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-## `Tools:`
-<img align="left" src="https://user-images.githubusercontent.com/94888819/179538709-781ca826-4b36-42e7-aeda-ad6b07e719ea.png" alt="pp" width="50" height="50" /> </a>
-<img align="left" alt="Anaconda" height="40" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/icons8-anaconda.svg" />
-<img align="left" alt="SQL" height="40" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-sql-96.png" /> <b>
-<img align="left" alt="excel" height="40" src="https://d3j0t7vrtr92dk.cloudfront.net/stembakuniversity/1616519913_png-clipart-microsoft-excel-computer-icons-microsoft-template-angle-removebg-preview.png" />
-<img src="https://user-images.githubusercontent.com/94888819/179532814-fa9beb8f-0fd6-4160-8d47-650af59c58a1.png" alt="GC" width="40" height="40"/> </a> 
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> </p> 
-<img src="https://user-images.githubusercontent.com/94888819/179531328-610ccc8c-11cc-40cf-82dc-5902d473b7e1.png" alt="tab" width="40" height="40"/> </a> 
-<img align="left" alt="teminal" height="50" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> </a> <a
-href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/94888819/179420219-9ce785fd-b1eb-4caa-aebd-086c088d05f2.png" alt="vsc" width="60" height="40"/> </a> <a 
-href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-github.svg" alt="github" width="50" height="50"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> </p>
-<img align="left" alt="pycharm" height="40" src="https://user-images.githubusercontent.com/94888819/179536543-d438fb65-8501-475d-9f8b-5bbc18bab86a.png" />
-<img align="left" alt="jn" height="50" src="https://user-images.githubusercontent.com/94888819/179537708-2241ab23-8c86-40c6-8fa9-f3979be75ade.png" /> 
-<img src="https://user-images.githubusercontent.com/94888819/179422108-0108ecc4-96d4-4a9f-93d2-f4f2ea98688e.png" alt="stream" width="40" height="50"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a
-href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> </p>
+### Libraries & Frameworks
+![numpy](https://img.shields.io/badge/-numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Langchain](https://img.shields.io/badge/-Langchain-000000?style=flat-square&logo=langchain&logoColor=white)
 
-![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
+### Data Engineering Tools
+[![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)](https://airflow.apache.org/)
+[![DBT](https://img.shields.io/badge/-dbt-FC6D26?style=flat-square&logo=dbt&logoColor=white)](https://www.getdbt.com/)
+[![Apache Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)](https://spark.apache.org/)
+[![Informatica](https://img.shields.io/badge/-Informatica-FF4A00?style=flat-square)](https://www.informatica.com/)
 
-<!-- visiros count -->
-<p align="center">
-  Visitor count
-  <br/>
-  <img src="https://profile-counter.glitch.me/harikrishnad1997/count.svg" />
-</p>
+### Cloud Platforms
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+
+### Tools & DevOps
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://www.databricks.com/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![Looker](https://img.shields.io/badge/-Looker-4285F4?style=flat-square&logo=looker&logoColor=white)](https://looker.com/)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Elastic Search](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)](https://www.elastic.co/elasticsearch/)
+
+## Experience
+- Developed sales forecasting framework and causal discovery models for simulations
+- Created model-agnostic tools for impact analysis
+- Devised customer cohorts using unsupervised learning
+- Developed LLM-based chatbots for KPI dashboards
+- Conducted Bayesian A/B testing to increase retention rates
+- Enhanced operational efficiency using LSTM networks
+- Developed text classification frameworks for finance
+- Predicted device failures using tree-based ensembles
+- Mentored team on LookML and statistics; collaborated with VP-level stakeholders
 
 
 **Stats**
