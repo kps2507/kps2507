@@ -1,6 +1,6 @@
 # Welcome 👋
 
-Hey there! I'm <b>Karan Pratap Singh</b> — a tech enthusiast who loves diving into <b>Machine Learning, Large Language Models (LLMs), Data Engineering, and Data Analysis</b>. When I’m not building data pipelines or fine-tuning models, you’ll probably find me <b>playing guitar 🎸, hiking up a trail 🥾, or experimenting with something delicious in the kitchen 🍳</b>.
+Hey there! I'm <b>Karan Pratap Singh</b> — a tech enthusiast who loves diving into <b> Data Analysis, Machine Learning, Large Language Models (LLMs) and Data Engineering </b>. When I’m not building data pipelines or fine-tuning models, you’ll probably find me playing guitar 🎸, hiking up a trail 🥾, or experimenting with something delicious in the kitchen 🍳.
 
 ## Highlights
 
